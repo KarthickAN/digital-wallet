@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "digital.wallet.min.balance",
+  "type": "java.lang.Float",
+  "description": "Minimum balance for digital wallet"
+}]}
